@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace RoBorg.PonyWallpaperTest
 {
@@ -8,11 +6,6 @@ namespace RoBorg.PonyWallpaperTest
     {
         [SerializeField]
         private float speed = 1f;
-
-        private void Start()
-        {
-
-        }
 
         private void Update()
         {
