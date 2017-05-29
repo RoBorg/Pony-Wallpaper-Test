@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 1f1cf74629f585b499166e1a2f26f08a
+timeCreated: 1496079261
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest1
+    100002: Chest2
+    100004: //RootNode
+    100006: futashy.qc_skeleton
+    100008: futashy_collar_shy
+    100010: futashy_hoodie_female
+    100012: futashy_left_wing_normal_closed
+    100014: futashy_left_wing_normal_spread
+    100016: futashy_mane_futashy
+    100018: futashy_reference
+    100020: futashy_right_wing_normal_closed
+    100022: futashy_right_wing_normal_spread
+    100024: futashy_tail_fluttershy
+    100026: HairBack1
+    100028: Head
+    100030: jiggle_hair1
+    100032: jiggle_hair2
+    100034: jiggle_hair3
+    100036: jiggle_hair4
+    100038: jiggle_hair5
+    100040: jiggle_hair5_end
+    100042: jiggle_hair6
+    100044: jiggle_hair7
+    100046: jiggle_hair7_end
+    100048: jigglenew1
+    100050: jigglenew1_end
+    100052: jigglenew2
+    100054: jigglenew2_end
+    100056: LeftBall
+    100058: LeftBall_end
+    100060: LeftEar
+    100062: LeftEar_end
+    100064: LeftFoot
+    100066: LeftFoot_end
+    100068: LeftForearm
+    100070: LeftHand
+    100072: LeftLeg1
+    100074: LeftLeg2
+    100076: LeftShoulder
+    100078: LeftThigh
+    100080: LeftWingClosed
+    100082: LeftWingClosed1
+    100084: LeftWingClosed2
+    100086: LeftWingClosed2_end
+    100088: LeftWingOpen
+    100090: LeftWingOpen0
+    100092: LeftWingOpen01
+    100094: LeftWingOpen01_end
+    100096: LeftWingOpen02
+    100098: LeftWingOpen02_end
+    100100: LeftWingOpen03
+    100102: LeftWingOpen03_end
+    100104: LeftWingOpen04
+    100106: LeftWingOpen04_end
+    100108: Neck
+    100110: Pelvis
+    100112: RightBall
+    100114: RightBall_end
+    100116: RightEar
+    100118: RightEar_end
+    100120: RightFoot
+    100122: RightFoot_end
+    100124: RightForearm
+    100126: RightHand
+    100128: RightLeg1
+    100130: RightLeg2
+    100132: RightShoulder
+    100134: RightThigh
+    100136: RightWingClosed
+    100138: RightWingClosed1
+    100140: RightWingClosed2
+    100142: RightWingClosed2_end
+    100144: RightWingOpen
+    100146: RightWingOpen0
+    100148: RightWingOpen01
+    100150: RightWingOpen01_end
+    100152: RightWingOpen02
+    100154: RightWingOpen02_end
+    100156: RightWingOpen03
+    100158: RightWingOpen03_end
+    100160: RightWingOpen04
+    100162: RightWingOpen04_end
+    100164: tag
+    100166: tag_end
+    100168: Tail1
+    100170: Tail2
+    100172: Tail3
+    100174: Tail4
+    100176: Tail5
+    100178: Tail6
+    100180: Tail6_end
+    100182: VTA vertices
+    400000: Chest1
+    400002: Chest2
+    400004: //RootNode
+    400006: futashy.qc_skeleton
+    400008: futashy_collar_shy
+    400010: futashy_hoodie_female
+    400012: futashy_left_wing_normal_closed
+    400014: futashy_left_wing_normal_spread
+    400016: futashy_mane_futashy
+    400018: futashy_reference
+    400020: futashy_right_wing_normal_closed
+    400022: futashy_right_wing_normal_spread
+    400024: futashy_tail_fluttershy
+    400026: HairBack1
+    400028: Head
+    400030: jiggle_hair1
+    400032: jiggle_hair2
+    400034: jiggle_hair3
+    400036: jiggle_hair4
+    400038: jiggle_hair5
+    400040: jiggle_hair5_end
+    400042: jiggle_hair6
+    400044: jiggle_hair7
+    400046: jiggle_hair7_end
+    400048: jigglenew1
+    400050: jigglenew1_end
+    400052: jigglenew2
+    400054: jigglenew2_end
+    400056: LeftBall
+    400058: LeftBall_end
+    400060: LeftEar
+    400062: LeftEar_end
+    400064: LeftFoot
+    400066: LeftFoot_end
+    400068: LeftForearm
+    400070: LeftHand
+    400072: LeftLeg1
+    400074: LeftLeg2
+    400076: LeftShoulder
+    400078: LeftThigh
+    400080: LeftWingClosed
+    400082: LeftWingClosed1
+    400084: LeftWingClosed2
+    400086: LeftWingClosed2_end
+    400088: LeftWingOpen
+    400090: LeftWingOpen0
+    400092: LeftWingOpen01
+    400094: LeftWingOpen01_end
+    400096: LeftWingOpen02
+    400098: LeftWingOpen02_end
+    400100: LeftWingOpen03
+    400102: LeftWingOpen03_end
+    400104: LeftWingOpen04
+    400106: LeftWingOpen04_end
+    400108: Neck
+    400110: Pelvis
+    400112: RightBall
+    400114: RightBall_end
+    400116: RightEar
+    400118: RightEar_end
+    400120: RightFoot
+    400122: RightFoot_end
+    400124: RightForearm
+    400126: RightHand
+    400128: RightLeg1
+    400130: RightLeg2
+    400132: RightShoulder
+    400134: RightThigh
+    400136: RightWingClosed
+    400138: RightWingClosed1
+    400140: RightWingClosed2
+    400142: RightWingClosed2_end
+    400144: RightWingOpen
+    400146: RightWingOpen0
+    400148: RightWingOpen01
+    400150: RightWingOpen01_end
+    400152: RightWingOpen02
+    400154: RightWingOpen02_end
+    400156: RightWingOpen03
+    400158: RightWingOpen03_end
+    400160: RightWingOpen04
+    400162: RightWingOpen04_end
+    400164: tag
+    400166: tag_end
+    400168: Tail1
+    400170: Tail2
+    400172: Tail3
+    400174: Tail4
+    400176: Tail5
+    400178: Tail6
+    400180: Tail6_end
+    400182: VTA vertices
+    2300000: VTA vertices
+    3300000: VTA vertices
+    4300000: VTA vertices
+    4300002: futashy_tail_fluttershy
+    4300004: futashy_mane_futashy
+    4300006: futashy_left_wing_normal_closed
+    4300008: futashy_left_wing_normal_spread
+    4300010: futashy_right_wing_normal_closed
+    4300012: futashy_right_wing_normal_spread
+    4300014: futashy_hoodie_female
+    4300016: futashy_collar_shy
+    4300018: futashy_reference
+    7400000: futashy.qc_skeleton|ragdoll
+    9500000: //RootNode
+    13700000: futashy_collar_shy
+    13700002: futashy_hoodie_female
+    13700004: futashy_left_wing_normal_closed
+    13700006: futashy_left_wing_normal_spread
+    13700008: futashy_mane_futashy
+    13700010: futashy_reference
+    13700012: futashy_right_wing_normal_closed
+    13700014: futashy_right_wing_normal_spread
+    13700016: futashy_tail_fluttershy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
