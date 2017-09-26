@@ -4,14 +4,11 @@ namespace RoBorg.PonyWallpaperTest
 {
     public class Rotate : MonoBehaviour
     {
-        [SerializeField]
-        private float xSpeed = 1f;
+        public float xSpeed = 1f;
 
-        [SerializeField]
-        private float ySpeed = 1f;
+        public float ySpeed = 1f;
 
-        [SerializeField]
-        private float zSpeed = 1f;
+        public float zSpeed = 1f;
 
         private void Update()
         {

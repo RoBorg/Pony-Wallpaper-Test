@@ -1,217 +1,184 @@
 fileFormatVersion: 2
 guid: 1f1cf74629f585b499166e1a2f26f08a
-timeCreated: 1496079261
+timeCreated: 1506265203
 licenseType: Free
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 21
   fileIDToRecycleName:
     100000: Chest1
     100002: Chest2
     100004: //RootNode
-    100006: futashy.qc_skeleton
-    100008: futashy_collar_shy
-    100010: futashy_hoodie_female
-    100012: futashy_left_wing_normal_closed
-    100014: futashy_left_wing_normal_spread
-    100016: futashy_mane_futashy
-    100018: futashy_reference
-    100020: futashy_right_wing_normal_closed
-    100022: futashy_right_wing_normal_spread
-    100024: futashy_tail_fluttershy
-    100026: HairBack1
-    100028: Head
-    100030: jiggle_hair1
-    100032: jiggle_hair2
-    100034: jiggle_hair3
-    100036: jiggle_hair4
-    100038: jiggle_hair5
-    100040: jiggle_hair5_end
-    100042: jiggle_hair6
-    100044: jiggle_hair7
-    100046: jiggle_hair7_end
-    100048: jigglenew1
-    100050: jigglenew1_end
-    100052: jigglenew2
-    100054: jigglenew2_end
-    100056: LeftBall
-    100058: LeftBall_end
-    100060: LeftEar
-    100062: LeftEar_end
-    100064: LeftFoot
-    100066: LeftFoot_end
-    100068: LeftForearm
-    100070: LeftHand
-    100072: LeftLeg1
-    100074: LeftLeg2
-    100076: LeftShoulder
-    100078: LeftThigh
-    100080: LeftWingClosed
-    100082: LeftWingClosed1
-    100084: LeftWingClosed2
-    100086: LeftWingClosed2_end
-    100088: LeftWingOpen
-    100090: LeftWingOpen0
-    100092: LeftWingOpen01
-    100094: LeftWingOpen01_end
-    100096: LeftWingOpen02
-    100098: LeftWingOpen02_end
-    100100: LeftWingOpen03
-    100102: LeftWingOpen03_end
-    100104: LeftWingOpen04
-    100106: LeftWingOpen04_end
-    100108: Neck
-    100110: Pelvis
-    100112: RightBall
-    100114: RightBall_end
-    100116: RightEar
-    100118: RightEar_end
-    100120: RightFoot
-    100122: RightFoot_end
-    100124: RightForearm
-    100126: RightHand
-    100128: RightLeg1
-    100130: RightLeg2
-    100132: RightShoulder
-    100134: RightThigh
-    100136: RightWingClosed
-    100138: RightWingClosed1
-    100140: RightWingClosed2
-    100142: RightWingClosed2_end
-    100144: RightWingOpen
-    100146: RightWingOpen0
-    100148: RightWingOpen01
-    100150: RightWingOpen01_end
-    100152: RightWingOpen02
-    100154: RightWingOpen02_end
-    100156: RightWingOpen03
-    100158: RightWingOpen03_end
-    100160: RightWingOpen04
-    100162: RightWingOpen04_end
-    100164: tag
-    100166: tag_end
-    100168: Tail1
-    100170: Tail2
-    100172: Tail3
-    100174: Tail4
-    100176: Tail5
-    100178: Tail6
-    100180: Tail6_end
-    100182: VTA vertices
+    100006: HairBack1
+    100008: Head
+    100010: jiggle_hair1
+    100012: jiggle_hair2
+    100014: jiggle_hair3
+    100016: jiggle_hair4
+    100018: jiggle_hair5
+    100020: jiggle_hair5_end
+    100022: jiggle_hair6
+    100024: jiggle_hair7
+    100026: jiggle_hair7_end
+    100028: LeftBall
+    100030: LeftBall_end
+    100032: LeftEar
+    100034: LeftEar_end
+    100036: LeftFoot
+    100038: LeftFoot_end
+    100040: LeftForearm
+    100042: LeftHand
+    100044: LeftLeg1
+    100046: LeftLeg2
+    100048: LeftShoulder
+    100050: LeftThigh
+    100052: LeftWingClosed
+    100054: LeftWingClosed1
+    100056: LeftWingClosed2
+    100058: LeftWingClosed2_end
+    100060: LeftWingOpen
+    100062: LeftWingOpen0
+    100064: LeftWingOpen01
+    100066: LeftWingOpen01_end
+    100068: LeftWingOpen02
+    100070: LeftWingOpen02_end
+    100072: LeftWingOpen03
+    100074: LeftWingOpen03_end
+    100076: LeftWingOpen04
+    100078: LeftWingOpen04_end
+    100080: Neck
+    100082: Pelvis
+    100084: RightBall
+    100086: RightBall_end
+    100088: RightEar
+    100090: RightEar_end
+    100092: RightFoot
+    100094: RightFoot_end
+    100096: RightForearm
+    100098: RightHand
+    100100: RightLeg1
+    100102: RightLeg2
+    100104: RightShoulder
+    100106: RightThigh
+    100108: RightWingClosed
+    100110: RightWingClosed1
+    100112: RightWingClosed2
+    100114: RightWingClosed2_end
+    100116: RightWingOpen
+    100118: RightWingOpen0
+    100120: RightWingOpen01
+    100122: RightWingOpen01_end
+    100124: RightWingOpen02
+    100126: RightWingOpen02_end
+    100128: RightWingOpen03
+    100130: RightWingOpen03_end
+    100132: RightWingOpen04
+    100134: RightWingOpen04_end
+    100136: Tail1
+    100138: Tail2
+    100140: Tail3
+    100142: Tail4
+    100144: Tail5
+    100146: Tail6
+    100148: Tail6_end
+    100150: vn_fluttershy.qc_skeleton
+    100152: vn_fluttershy_body1_model0
+    100154: vn_fluttershy_body2_model0
+    100156: vn_fluttershy_body4_model0
+    100158: vn_fluttershy_body5_model0
+    100160: vn_fluttershy_reference
     400000: Chest1
     400002: Chest2
     400004: //RootNode
-    400006: futashy.qc_skeleton
-    400008: futashy_collar_shy
-    400010: futashy_hoodie_female
-    400012: futashy_left_wing_normal_closed
-    400014: futashy_left_wing_normal_spread
-    400016: futashy_mane_futashy
-    400018: futashy_reference
-    400020: futashy_right_wing_normal_closed
-    400022: futashy_right_wing_normal_spread
-    400024: futashy_tail_fluttershy
-    400026: HairBack1
-    400028: Head
-    400030: jiggle_hair1
-    400032: jiggle_hair2
-    400034: jiggle_hair3
-    400036: jiggle_hair4
-    400038: jiggle_hair5
-    400040: jiggle_hair5_end
-    400042: jiggle_hair6
-    400044: jiggle_hair7
-    400046: jiggle_hair7_end
-    400048: jigglenew1
-    400050: jigglenew1_end
-    400052: jigglenew2
-    400054: jigglenew2_end
-    400056: LeftBall
-    400058: LeftBall_end
-    400060: LeftEar
-    400062: LeftEar_end
-    400064: LeftFoot
-    400066: LeftFoot_end
-    400068: LeftForearm
-    400070: LeftHand
-    400072: LeftLeg1
-    400074: LeftLeg2
-    400076: LeftShoulder
-    400078: LeftThigh
-    400080: LeftWingClosed
-    400082: LeftWingClosed1
-    400084: LeftWingClosed2
-    400086: LeftWingClosed2_end
-    400088: LeftWingOpen
-    400090: LeftWingOpen0
-    400092: LeftWingOpen01
-    400094: LeftWingOpen01_end
-    400096: LeftWingOpen02
-    400098: LeftWingOpen02_end
-    400100: LeftWingOpen03
-    400102: LeftWingOpen03_end
-    400104: LeftWingOpen04
-    400106: LeftWingOpen04_end
-    400108: Neck
-    400110: Pelvis
-    400112: RightBall
-    400114: RightBall_end
-    400116: RightEar
-    400118: RightEar_end
-    400120: RightFoot
-    400122: RightFoot_end
-    400124: RightForearm
-    400126: RightHand
-    400128: RightLeg1
-    400130: RightLeg2
-    400132: RightShoulder
-    400134: RightThigh
-    400136: RightWingClosed
-    400138: RightWingClosed1
-    400140: RightWingClosed2
-    400142: RightWingClosed2_end
-    400144: RightWingOpen
-    400146: RightWingOpen0
-    400148: RightWingOpen01
-    400150: RightWingOpen01_end
-    400152: RightWingOpen02
-    400154: RightWingOpen02_end
-    400156: RightWingOpen03
-    400158: RightWingOpen03_end
-    400160: RightWingOpen04
-    400162: RightWingOpen04_end
-    400164: tag
-    400166: tag_end
-    400168: Tail1
-    400170: Tail2
-    400172: Tail3
-    400174: Tail4
-    400176: Tail5
-    400178: Tail6
-    400180: Tail6_end
-    400182: VTA vertices
-    2300000: VTA vertices
-    3300000: VTA vertices
-    4300000: VTA vertices
-    4300002: futashy_tail_fluttershy
-    4300004: futashy_mane_futashy
-    4300006: futashy_left_wing_normal_closed
-    4300008: futashy_left_wing_normal_spread
-    4300010: futashy_right_wing_normal_closed
-    4300012: futashy_right_wing_normal_spread
-    4300014: futashy_hoodie_female
-    4300016: futashy_collar_shy
-    4300018: futashy_reference
-    7400000: futashy.qc_skeleton|ragdoll
+    400006: HairBack1
+    400008: Head
+    400010: jiggle_hair1
+    400012: jiggle_hair2
+    400014: jiggle_hair3
+    400016: jiggle_hair4
+    400018: jiggle_hair5
+    400020: jiggle_hair5_end
+    400022: jiggle_hair6
+    400024: jiggle_hair7
+    400026: jiggle_hair7_end
+    400028: LeftBall
+    400030: LeftBall_end
+    400032: LeftEar
+    400034: LeftEar_end
+    400036: LeftFoot
+    400038: LeftFoot_end
+    400040: LeftForearm
+    400042: LeftHand
+    400044: LeftLeg1
+    400046: LeftLeg2
+    400048: LeftShoulder
+    400050: LeftThigh
+    400052: LeftWingClosed
+    400054: LeftWingClosed1
+    400056: LeftWingClosed2
+    400058: LeftWingClosed2_end
+    400060: LeftWingOpen
+    400062: LeftWingOpen0
+    400064: LeftWingOpen01
+    400066: LeftWingOpen01_end
+    400068: LeftWingOpen02
+    400070: LeftWingOpen02_end
+    400072: LeftWingOpen03
+    400074: LeftWingOpen03_end
+    400076: LeftWingOpen04
+    400078: LeftWingOpen04_end
+    400080: Neck
+    400082: Pelvis
+    400084: RightBall
+    400086: RightBall_end
+    400088: RightEar
+    400090: RightEar_end
+    400092: RightFoot
+    400094: RightFoot_end
+    400096: RightForearm
+    400098: RightHand
+    400100: RightLeg1
+    400102: RightLeg2
+    400104: RightShoulder
+    400106: RightThigh
+    400108: RightWingClosed
+    400110: RightWingClosed1
+    400112: RightWingClosed2
+    400114: RightWingClosed2_end
+    400116: RightWingOpen
+    400118: RightWingOpen0
+    400120: RightWingOpen01
+    400122: RightWingOpen01_end
+    400124: RightWingOpen02
+    400126: RightWingOpen02_end
+    400128: RightWingOpen03
+    400130: RightWingOpen03_end
+    400132: RightWingOpen04
+    400134: RightWingOpen04_end
+    400136: Tail1
+    400138: Tail2
+    400140: Tail3
+    400142: Tail4
+    400144: Tail5
+    400146: Tail6
+    400148: Tail6_end
+    400150: vn_fluttershy.qc_skeleton
+    400152: vn_fluttershy_body1_model0
+    400154: vn_fluttershy_body2_model0
+    400156: vn_fluttershy_body4_model0
+    400158: vn_fluttershy_body5_model0
+    400160: vn_fluttershy_reference
+    4300000: vn_fluttershy_body5_model0
+    4300002: vn_fluttershy_body4_model0
+    4300004: vn_fluttershy_body2_model0
+    4300006: vn_fluttershy_body1_model0
+    4300008: vn_fluttershy_reference
+    7400000: vn_fluttershy.qc_skeleton|ragdoll
     9500000: //RootNode
-    13700000: futashy_collar_shy
-    13700002: futashy_hoodie_female
-    13700004: futashy_left_wing_normal_closed
-    13700006: futashy_left_wing_normal_spread
-    13700008: futashy_mane_futashy
-    13700010: futashy_reference
-    13700012: futashy_right_wing_normal_closed
-    13700014: futashy_right_wing_normal_spread
-    13700016: futashy_tail_fluttershy
+    13700000: vn_fluttershy_body1_model0
+    13700002: vn_fluttershy_body2_model0
+    13700004: vn_fluttershy_body4_model0
+    13700006: vn_fluttershy_body5_model0
+    13700008: vn_fluttershy_reference
   materials:
     importMaterials: 1
     materialName: 0
@@ -234,6 +201,7 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -241,7 +209,10 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -257,6 +228,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
